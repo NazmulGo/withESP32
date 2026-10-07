@@ -5,4 +5,4 @@ S.N.	Components Name	        Quantity
 3	   Connecting Wires	5-6
 4      Bluetooth Serial Terminal Application (Play Store) 
 5	   Breadboard	   1
-6      AC Component (MAX 8)
+6      AC Component (MAX 8 ,each needed 1 Relay Moule)
