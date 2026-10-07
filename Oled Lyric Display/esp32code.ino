@@ -1,5 +1,3 @@
-//for display 128*32
-
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
